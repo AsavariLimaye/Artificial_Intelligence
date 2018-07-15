@@ -1,8 +1,0 @@
-Model Name:
-epochs_100_batchsize_50_sgd_momentum_0.1_784_sigmoid_100_sigmoid_10_softmax_crossentropy
-
-Train Accuracy:
-99.41%
-
-Test Accuracy:
-97.23%
